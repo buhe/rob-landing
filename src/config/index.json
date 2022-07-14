@@ -27,13 +27,13 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "DGit",
-    "subtitle": "web3 hub.",
-    "description": "DGit is a peer-to-peer source code hub.",
+    "title": "Redis",
+    "subtitle": "on blockchain",
+    "description": "Redis on blockchain.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
-      "href": "https://dgit-wiki.buhe.dev/installation"
+      "href": "https://rob-wiki.buhe.dev/installation"
     },
     "secondaryAction": {
       "text": "Email us",
